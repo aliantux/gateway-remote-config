@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF6F61A4",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.59255,
+    "ref_longitude": 5.86255,
+    "ref_altitude": 315,
+    "contact_email": "gw1@ttn.aliantux.org",
+    "description": "8ch iC880A-RPi GW"
+  }
+}
